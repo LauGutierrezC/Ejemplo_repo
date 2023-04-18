@@ -47,7 +47,7 @@ INSERT INTO libros(titulo, autor, editorial, anio_publicacion, num_paginas) VALU
 INSERT INTO usuario(nombre, direccion, correo_electronico) VALUES ("laura","san fernando","saenx65@gmail.com");
 INSERT INTO usuario(nombre, direccion, correo_electronico) VALUES ("daniel","san fernando","sdr@gmail.com");
 INSERT INTO usuario(nombre, direccion, correo_electronico) VALUES ("alisson","san fernando","rtr@gmail.com");
-INSERT INTO usuario(nombre, direccion, correo_electronico) VALUES ("alejandro","B. bolivar","pooeuf@gmail.com");
+INSERT INTO usuario(nombre, direccion, correo_electronico) VALUES ("fernando","B. bolivar","pooeuf@gmail.com");
 INSERT INTO usuario(nombre, direccion, correo_electronico) VALUES ("lessly","la paz","werts@gmail.com");
 
 
